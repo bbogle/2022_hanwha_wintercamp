@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1mru39Y74XMPCTbKxDyGiVX4IovmP9onK?usp=sha
 
 스마트 신호등 ppt - 강의자료  
 
-인고지은 자동문 ppt - 강의자료  
+인공지능 자동문 ppt - 강의자료  
 
 인공지능 자동문 블록코딩 
 인공지능 안면인식 자동문.sb3 - 얼굴인식을 이용한 자동문 프로그램 소스코드  
