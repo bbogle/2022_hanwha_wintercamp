@@ -24,5 +24,3 @@ https://drive.google.com/drive/folders/1mru39Y74XMPCTbKxDyGiVX4IovmP9onK?usp=sha
 https://teachablemachine.withgoogle.com/models/UyfvV858_/
 문 open - 손바닥(손가락 모아서), 주먹  
 문 close - 손바닥(손가락 개별), 엄지척  
-
-[링크이름](링크주소){: target="_blank"}
