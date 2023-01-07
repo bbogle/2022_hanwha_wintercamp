@@ -18,7 +18,7 @@ https://drive.google.com/drive/folders/1mru39Y74XMPCTbKxDyGiVX4IovmP9onK?usp=sha
 인공지능 안면인식 자동문.sb3 - 얼굴인식을 이용한 자동문 프로그램 소스코드  
 인공지능 기계학습 자동문.sb3 - 기계학습을 이용한 자동문 프로그램 소스코드  
 
-티처블머신 - (https://teachablemachine.withgoogle.com/){:target="\_blank"}  
+티처블머신 - (https://teachablemachine.withgoogle.com/) {:target="\_blank"}  
 
 기계학습 자동문 샘플 모델 
 https://teachablemachine.withgoogle.com/models/UyfvV858_/
